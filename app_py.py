@@ -28,7 +28,7 @@ st.info(
     1. First, upload your data file to get predictions.
     2. You can also download a sample test specimen using the **Download Test Specimen** button and use that file for upload.
     3. Select a model to train and view its performance metrics and confusion matrix.
-    4. After uploading your data click **Train & Evaluate** button to see the prediction result.
+    4. After uploading your data click **Train & Evaluate** button to see the evaluation metrics.
     5. You can scroll through the table to review all predictions (Benign or Malignant).
     """
 )
